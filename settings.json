@@ -10,8 +10,8 @@
   "bracketPairColorizer.depreciation-notice": false,
   "workbench.editor.enablePreview": false,
 
-  // Font Style
-  "editor.fontFamily": "Fira Code",
+  // Font Style - Necessário instalar https://github.com/tonsky/FiraCode
+  "editor.fontFamily": "Fira Code", 
   "editor.fontLigatures": true,
   "editor.fontSize": 13,
 
